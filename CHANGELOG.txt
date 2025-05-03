@@ -1,7 +1,0 @@
-CHANGELOG
-=========
-
-0.0.1 (5/2/2025)
-----------------
--release
--added 'clicker' function
